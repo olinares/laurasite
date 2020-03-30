@@ -6,7 +6,8 @@ webhook_url: https://api.stackbit.com/project/5e80eeca399081001bba7e31/webhook/f
 sections:
 - type: document
   path: src/pages/index.md
-  label: Home
+  label: Home Page
+  read_only: false
   templates:
   - home
 - type: document
