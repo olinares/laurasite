@@ -5,6 +5,11 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e80eeca399081001bba7e31/webhook/forestry
 sections:
 - type: document
+  path: src/pages/index.md
+  label: Home
+  templates:
+  - home
+- type: document
   path: site-metadata.json
   label: Config
   templates:
@@ -19,11 +24,6 @@ sections:
   label: Footer Configuration
   templates:
   - footer
-- type: document
-  path: src/pages/index.md
-  label: Home
-  templates:
-  - home
 - type: document
   path: src/pages/elements.md
   label: Elements
