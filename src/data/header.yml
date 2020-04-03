@@ -13,5 +13,5 @@ actions:
   is_primary: false
   is_scrolly: true
 img:
-  path: images/screen.jpg
+  path: "/images/Screen Shot 2020-04-02 at 9.22.20 PM.png"
   phone_border: true
