@@ -41,7 +41,7 @@ sections:
     icon: fa-refresh
   - title: We will organize your life and you keep your sanity
     icon: fa-cloud
-  - title: Create a space for distant learning
+  - title: Create a productive space for distant learning
     icon: fa-code
 - type: cta
   template: cta
