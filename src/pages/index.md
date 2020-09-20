@@ -35,7 +35,7 @@ sections:
       gallery of before and afters to see for yourself.
     image: "/images/img_6526.JPG"
   icons:
-  - title: Ipsum lorem accumsan
+  - title: Work from home organization
     icon: fa-camera-retro
   - title: Sed vehicula elementum
     icon: fa-refresh
