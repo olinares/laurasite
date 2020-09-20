@@ -52,8 +52,8 @@ sections:
     \ \nlectus ultricies eu. In convallis amet leo sapien iaculis efficitur."
   background_style: style2
   actions:
-  - label: Download
-    icon: fa-download
+  - label: Schedule a consult
+    icon: fa-calendar
     url: "#"
     is_primary: true
     is_scrolly: false
