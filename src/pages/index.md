@@ -25,10 +25,10 @@ sections:
       in your home. Clearing your space and home will promote a better work environment
       for you and your family.
     image: images/pic01.jpg
-  - title: Ultrices nullam aliquam
-    text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
-      fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
-      leo non sapien iaculis efficitur consequat lorem ipsum.
+  - title: Home organization is our jam
+    text: I have a passion for helping you turn disorganized chaos into amazing, clean
+      and functional living and work spaces. My in home service will help you transform
+      your mind and daily living.
     image: images/pic02.jpg
   - title: Aliquam sed magna
     text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
