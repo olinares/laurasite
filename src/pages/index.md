@@ -24,7 +24,7 @@ sections:
     text: Let me help you create a space that will promote productivity and automation
       in your home. Clearing your space and home will promote a better work environment
       for you and your family.
-    image: images/pic01.jpg
+    image: "/images/img_6524.JPG"
   - title: Home organization is our jam
     text: I have a passion for helping you turn disorganized chaos into amazing, clean
       and functional living and work spaces. My in home service will help you transform
