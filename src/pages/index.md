@@ -37,7 +37,7 @@ sections:
   icons:
   - title: Work from home organization
     icon: fa-camera-retro
-  - title: Sed vehicula elementum
+  - title: Transform your living space
     icon: fa-refresh
   - title: Elit fusce consequat
     icon: fa-cloud
