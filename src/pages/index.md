@@ -39,7 +39,7 @@ sections:
     icon: fa-camera-retro
   - title: Transform your living space
     icon: fa-refresh
-  - title: Elit fusce consequat
+  - title: Create a productive space for distant learning
     icon: fa-cloud
   - title: Lorem nullam tempus
     icon: fa-code
