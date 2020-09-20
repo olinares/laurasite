@@ -45,11 +45,11 @@ sections:
     icon: fa-code
 - type: cta
   template: cta
-  title: Magna leo sapien gravida
+  title: Schedule a free consultation
   section_id: three
   component: Cta
-  subtitle: "Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula
-    \ \nlectus ultricies eu. In convallis amet leo sapien iaculis efficitur."
+  subtitle: We adhere with California regulations and follow Covid-19 guidelines for
+    our and your families safety.
   background_style: style2
   actions:
   - label: Schedule a consult
@@ -57,11 +57,6 @@ sections:
     url: "#"
     is_primary: true
     is_scrolly: false
-  - label: Learn More
-    url: "/elements"
-    is_primary: false
-    is_scrolly: false
-    icon: ''
 template: home
 
 ---
