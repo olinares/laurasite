@@ -39,7 +39,7 @@ sections:
     icon: fa-camera-retro
   - title: Transform your living space
     icon: fa-refresh
-  - title: Create a productive space for distant learning
+  - title: We will organize your life and you keep your sanity
     icon: fa-cloud
   - title: Create a space for distant learning
     icon: fa-code
