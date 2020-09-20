@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: icons
   template: icons
-  title: Sed ipsum magna lorem tempus ametvehicula et gravida elementum
+  title: Tidy up your space and transform your life.
   section_id: one
   component: Icons
   background_style: style2
