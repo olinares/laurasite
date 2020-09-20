@@ -16,7 +16,7 @@ sections:
     icon: fa-cloud
 - type: spotlights
   template: spotlights
-  title: Spotlights Section
+  title: Be more productive while Working from Home
   section_id: two
   component: Spotlights
   spotlights:
