@@ -2,10 +2,7 @@
 social_icons:
 - title: Facebook
   icon: fa-facebook
-  url: "#"
-- title: Twitter
-  icon: fa-twitter
-  url: "#"
+  url: https://www.facebook.com/formallyclutterbusters/
 - title: Instagram
   icon: fa-instagram
   url: "#"
