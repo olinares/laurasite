@@ -29,7 +29,7 @@ sections:
     text: I have a passion for helping you turn disorganized chaos into amazing, clean
       and functional living and work spaces. My in home service will help you transform
       your mind and daily living.
-    image: images/pic02.jpg
+    image: "/images/img_6525.JPG"
   - title: Aliquam sed magna
     text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
       fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
