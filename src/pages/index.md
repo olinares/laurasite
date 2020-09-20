@@ -30,11 +30,10 @@ sections:
       and functional living and work spaces. My in home service will help you transform
       your mind and daily living.
     image: "/images/img_6525.JPG"
-  - title: Aliquam sed magna
-    text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
-      fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
-      leo non sapien iaculis efficitur consequat lorem ipsum.
-    image: images/pic03.jpg
+  - title: See our work
+    text: From garages, to work areas and complete home reorganizations. View our
+      gallery of before and afters to see for yourself.
+    image: "/images/img_6526.JPG"
   icons:
   - title: Ipsum lorem accumsan
     icon: fa-camera-retro
