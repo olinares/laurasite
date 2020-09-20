@@ -20,10 +20,10 @@ sections:
   section_id: two
   component: Spotlights
   spotlights:
-  - title: Magna sed ultrices
-    text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
-      fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
-      leo non sapien iaculis efficitur consequat lorem ipsum.
+  - title: Be more productive while working from home
+    text: Let me help you create a space that will promote productivity and automation
+      in your home. Clearing your space and home will promote a better work environment
+      for you and your family.
     image: images/pic01.jpg
   - title: Ultrices nullam aliquam
     text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
