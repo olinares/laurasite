@@ -41,10 +41,8 @@ sections:
     icon: fa-refresh
   - title: Create a productive space for distant learning
     icon: fa-cloud
-  - title: Lorem nullam tempus
+  - title: Create a space for distant learning
     icon: fa-code
-  - title: Adipiscing amet sapien
-    icon: fa-desktop
 - type: cta
   template: cta
   title: Magna leo sapien gravida
