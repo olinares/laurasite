@@ -10,7 +10,7 @@ fields:
 - type: text
   name: template
   label: Template
-  hidden: false
+  hidden: true
   default: elements
   config:
     required: true
