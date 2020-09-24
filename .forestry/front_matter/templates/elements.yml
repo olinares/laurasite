@@ -14,9 +14,5 @@ fields:
   default: elements
   config:
     required: true
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: Gallery
 pages:
 - src/pages/elements.md
