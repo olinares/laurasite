@@ -65,3 +65,5 @@ fields:
   default: spotlights
   config:
     required: true
+pages:
+- src/pages/gallery.md
