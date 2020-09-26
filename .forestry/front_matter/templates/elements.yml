@@ -16,3 +16,4 @@ fields:
     required: true
 pages:
 - src/pages/elements.md
+- src/pages/gallery.md

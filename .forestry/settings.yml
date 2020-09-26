@@ -27,7 +27,6 @@ sections:
 - type: document
   path: src/pages/gallery.md
   label: Gallery
-  match: "**/*"
 - type: document
   path: src/data/footer.yml
   label: Footer Configuration
