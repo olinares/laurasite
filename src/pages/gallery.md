@@ -1,5 +1,5 @@
 ---
 title: Gallery
-template: elements
+template: gallery
 
 ---
