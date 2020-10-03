@@ -10,7 +10,8 @@ export default class Gallery extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
-                <section id="gallery" className="wrapper">
+	  	<Gallery />
+                /*<section id="gallery" className="wrapper">
 			<ul>
 				<li>
 					<img src="/images/pic04.jpg" />
@@ -43,7 +44,7 @@ export default class Gallery extends React.Component {
 					<img src="/images/pic03.jpg" />
 	  			</li>
 	  		</ul>
-	  	</section>
+	  	</section>*/
 	    </Layout>
 	)
     }
